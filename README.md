@@ -1,2 +1,1 @@
-# namons
-#madblockstechnologies
+Diabetes Prediction system by using ML 
